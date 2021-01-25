@@ -30,3 +30,11 @@ h2 {
     color: white;
     box-shadow: 0px 0px 50px 50px rgb(230, 230, 40);
 }
+
+.footer {
+    background: rgb(28, 28, 94);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
